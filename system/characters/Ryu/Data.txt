@@ -1,0 +1,7 @@
+Ryu
+2.10
+1
+system/characters/Ryu/Ryu.png
+<action> 1 true
+Frame: 0 0,0,80,100 lat=4 xdisp=0 ydisp=0
+</action>

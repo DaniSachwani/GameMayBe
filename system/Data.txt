@@ -1,0 +1,6 @@
+<backgrounds> 2
+system/background/bg1/Data.txt
+system/background/bg2/Data.txt
+<characters> 2
+system/characters/Dany/Data.txt
+system/characters/Lighto/Data.txt

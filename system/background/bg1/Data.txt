@@ -1,0 +1,5 @@
+Dead End
+2
+system/background/bg1/wall.jpg 0 0
+system/background/bg1/floor.jpg 0 314
+0 1100 314 442

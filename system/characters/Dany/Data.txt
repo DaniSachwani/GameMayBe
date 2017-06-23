@@ -1,0 +1,25 @@
+Dany
+1.0
+walking_speed=20
+running_speed=50
+3
+system/characters/Dany/standing.png
+system/characters/Dany/punching.png
+system/characters/Dany/walking.png
+<action> 4 incoming=[0,1,2,3,4]
+Frame: 0 0,0,170,240 lat=4 xdisp=0 ydisp=0 sheet=0 [right,left,up,down,A,J,R,D]
+Frame: 1 170,0,170,240 lat=4 xdisp=0 ydisp=0 sheet=0 [right,left,up,down,A,J,R,D]
+Frame: 2 340,0,170,240 lat=4 xdisp=0 ydisp=0 sheet=0 [right,left,up,down,A,J,R,D]
+Frame: 3 510,0,170,240 lat=4 xdisp=0 ydisp=0 sheet=0 [right,left,up,down,A,J,R,D]
+</action>
+<action> 3 incoming=[0]
+Frame: 0 0,0,180,240 lat=2 xdisp=0 ydisp=0 sheet=1 []
+Frame: 1 180,0,180,240 lat=2 xdisp=0 ydisp=0 sheet=1 []
+Frame: 2 360,0,180,240 lat=2 xdisp=0 ydisp=0 sheet=1 []
+</action>
+<action> 4 incoming=[0,2] 
+Frame: 0 0,0,170,240 lat=3 xdisp=0 ydisp=0 sheet=2 [right,left,up,down,A,J,R,D]
+Frame: 1 170,0,170,240 lat=3 xdisp=0 ydisp=0 sheet=2 [right,left,up,down,A,J,R,D]
+Frame: 2 340,0,170,240 lat=3 xdisp=0 ydisp=0 sheet=2 [right,left,up,down,A,J,R,D]
+Frame: 3 510,0,170,240 lat=3 xdisp=0 ydisp=0 sheet=2 [right,left,up,down,A,J,R,D]
+</action>

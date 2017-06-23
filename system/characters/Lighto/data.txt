@@ -1,0 +1,35 @@
+Lighto
+2.7
+walking_speed=20
+running_speed=50
+1
+system/characters/Lighto/Lighto_0.gif
+<action> 4 incoming=[0,1,2,3,4]
+Frame: 0 0,0,79,79 lat=4 xdisp=0 ydisp=0 sheet=0 [right,left,up,down,A,J,R,D]
+Frame: 1 80,0,79,79 lat=4 xdisp=0 ydisp=0 sheet=0 [right,left,up,down,A,J,R,D]
+Frame: 2 160,0,79,79 lat=4 xdisp=0 ydisp=0 sheet=0 [right,left,up,down,A,J,R,D]
+Frame: 3 240,0,79,79 lat=4 xdisp=0 ydisp=0 sheet=0 [right,left,up,down,A,J,R,D]
+</action>
+<action> 3 incoming=[0,2]
+Frame: 0 0,80,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 []
+Frame: 1 80,80,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 []
+Frame: 2 240,80,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 []
+</action>
+<action> 4 incoming=[0,2] 
+Frame: 0 320,0,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 [up,down,right,left,J,A,R,D]
+Frame: 1 400,0,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 [up,down,right,left,J,A,R,D]
+Frame: 2 480,0,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 [up,down,right,left,J,A,R,D]
+Frame: 3 560,0,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 [up,down,right,left,J,A,R,D]
+</action>
+<action> 3 incoming=[0,3,2] 
+Frame: 0 0,160,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 [right,left,up,down,A,J,R,D]
+Frame: 1 80,160,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 [right,left,up,down,A,J,R,D]
+Frame: 2 160,160,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 [right,left,up,down,A,J,R,D]
+</action>
+<action> 5 incoming=[0,2]
+Frame: 0 0,480,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 []
+Frame: 1 80,480,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 []
+Frame: 2 160,480,79,79 lat=7 xdisp=0 ydisp=-30 sheet=0 [right,left]
+Frame: 3 160,480,79,79 lat=7 xdisp=0 ydisp=30 sheet=0 [right,left]
+Frame: 4 80,480,79,79 lat=2 xdisp=0 ydisp=0 sheet=0 []
+</action>

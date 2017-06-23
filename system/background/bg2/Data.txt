@@ -1,0 +1,4 @@
+DestroyedCity
+1
+system/background/bg2/DC.png 0 0
+0 2400 1300 1500
